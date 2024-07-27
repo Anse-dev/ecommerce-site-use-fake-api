@@ -27,8 +27,8 @@ Ce projet est une application d'e-commerce développée avec Next.js, Redux et T
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet-ecommerce.git
-   cd votre-projet-ecommerce
+   git clone https://github.com/anse-dev/ecommerce-site-use-fake-api .git
+   cd ecommerce-site-use-fake-api 
    ```
 
 2. Installez les dépendances :
