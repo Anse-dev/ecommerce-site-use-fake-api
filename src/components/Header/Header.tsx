@@ -7,7 +7,7 @@ const Header = () => {
     const totalItems = cartItems.reduce((total, item) => total + item.quantity, 0);
 
     return (
-        <header className="bg-blue-600 text-white p-4 shadow-md">
+        <header className="bg-black fixed left-0 right-0 z-50 text-white p-4 shadow-md">
             <nav className="flex justify-between items-center container mx-auto">
                 <Link href="/" >
                     <span className="text-2xl font-bold hover:text-gray-200 transition duration-300">E-commerce</span>
